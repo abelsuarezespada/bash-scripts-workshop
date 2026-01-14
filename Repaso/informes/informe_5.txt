@@ -1,0 +1,18 @@
+
+
+	INFORME DE ANALISIS DE LOG #5
+
+
+Fichero analisado: prueba.txt
+Fecha de generacion: 2026-01-14 23:30:24
+
+
+	RESULTADOS DEL ANALISIS
+
+
+Lineas totales:		2
+Lineas con ERROR:	0
+Lineas con WARNING:	
+
+
+	FIN DEL INFORME #5
